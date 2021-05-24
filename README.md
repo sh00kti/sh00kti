@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shook-ti
+- 👋 Hi, I’m @sh00kti
 - 👀 I’m interested in all sorts of random stuff
 - 🌱 I’m currently learning random stuff like C, C++, Python, Lisp, JavaScript, CSS, html 
 - 💞️ I’m looking to collaborate on anything you wanna collaborate on
